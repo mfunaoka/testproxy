@@ -9,5 +9,5 @@ function FindProxyForURL(url, host)
 		return "DIRECT";
 	}
 	alert('PAC_DEBUG: ->PROXY');
-	return "PROXY 47.52.231.140:8080";
+	return "PROXY 203.205.29.106:35523";
 }
